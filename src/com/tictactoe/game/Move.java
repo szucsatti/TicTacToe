@@ -1,4 +1,4 @@
-package de.msggillardon.game;
+package com.tictactoe.game;
 
 public class Move {
 

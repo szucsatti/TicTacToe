@@ -1,7 +1,7 @@
-package de.msggillardon.game;
+package com.tictactoe.game;
 
-import de.msggillardon.console.Console;
-import de.msggillardon.model.Board;
+import com.tictactoe.console.Console;
+import com.tictactoe.model.Board;
 
 public class TicTacToeGame {
 

@@ -1,10 +1,10 @@
-package de.msggillardon.console;
+package com.tictactoe.console;
 
 import java.io.InputStream;
 import java.io.PrintStream;
 import java.util.Scanner;
 
-import de.msggillardon.game.Move;
+import com.tictactoe.game.Move;
 
 public class Console {
 

@@ -1,4 +1,4 @@
-package de.msggillardon.model;
+package com.tictactoe.model;
 
 import java.io.PrintStream;
 

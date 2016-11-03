@@ -1,8 +1,8 @@
-package de.msggillardon.application;
+package com.tictactoe.application;
 
-import de.msggillardon.console.Console;
-import de.msggillardon.game.TicTacToeGame;
-import de.msggillardon.model.Board;
+import com.tictactoe.console.Console;
+import com.tictactoe.game.TicTacToeGame;
+import com.tictactoe.model.Board;
 
 public class Application {
 
